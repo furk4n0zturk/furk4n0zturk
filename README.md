@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/furk4n0zturk/furk4n0zturk/blob/main/img/hacker.gif" width="400px" />
+
 ### Hi there, Welcome to My GitHub Page 👋
 
 I'm Furkan Öztürk, 
