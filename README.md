@@ -4,7 +4,7 @@ I'm Furkan Öztürk,
 
 :sunny: I am interested in Cyber Threat intelligence and Digital Forensics.  <br>
 :zap: I am currently working as a Cyber Threat Intelligence Analyst. <br>
-:heart: Cyber security is one of the things I love to deal with.
+:heart: Cyber Security is one of the things I love to deal with.
 
 #### Let's Contact!
 
