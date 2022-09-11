@@ -8,6 +8,8 @@ I'm Furkan Öztürk,
 :zap: I am currently working as a Cyber Threat Intelligence Analyst. <br>
 :heart: Cyber Security is one of the things I love to deal with.
 
+You can find the articles and reports I have published [here](https://github.com/furk4n0zturk/furk4n0zturk/tree/main/My%20Content).
+
 #### Let's Contact!
 
 - My Linkedin Account: [furkannozturk](https://www.linkedin.com/in/furkannozturk/) 
