@@ -9,7 +9,7 @@ I'm Furkan Öztürk,
 :zap: I'm a Chapter Leader in the OWASP Mugla University Community <br>
 :heart: Cyber Security is one of the things I love to deal with.
 
-- My Portfolio: [https://furk4n0zturk.github.io/](https://furk4n0zturk.github.io/) 
+My Portfolio: [https://furk4n0zturk.github.io/](https://furk4n0zturk.github.io/) 
 
 You can find the articles and reports I have published [here](https://github.com/furk4n0zturk/furk4n0zturk/tree/main/My%20Content).
 
