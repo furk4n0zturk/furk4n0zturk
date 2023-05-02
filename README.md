@@ -5,7 +5,7 @@
 I'm Furkan Öztürk, 
 
 :sunny: I'm interested in Cyber Threat intelligence and Digital Forensics.  <br>
-:zap: I'm currently working as a Cyber Threat Intelligence Analyst. <br>
+:zap: I'm currently working as a External Attack Surface Management Team Lead. <br>
 :zap: I'm a Chapter Leader in the OWASP Mugla University Community <br>
 :heart: Cyber Security is one of the things I love to deal with.
 
